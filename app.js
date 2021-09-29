@@ -23,7 +23,7 @@ function clickHandler() {
         .then(response => response.json())
         .then(json => {
             if(json.error){
-                return errorHandler(json.error);111111
+                return errorHandler(json.error);
             }
             // console.log("here");
             var translatedText = json.contents.translated;
