@@ -10,4 +10,4 @@ Note: There is an limit in this app, you can only use this app only 5 times in a
 
 -------------------------------------------------------------------------
 
-You can check the app: https://sindariantranslator-shailseen.netlify.app/
+You can check the app: https://bananatranslator-shailseen.netlify.app/
